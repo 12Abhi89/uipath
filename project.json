@@ -1,8 +1,10 @@
 {
-  "name": "STM",
-  "description": "STM process",
+  "name": "RNS-RE01",
+  "description": "STM software automation",
   "main": "Main.xaml",
   "dependencies": {
+    "Microsoft.Activities": "[1.0.1]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
