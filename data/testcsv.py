@@ -69,11 +69,12 @@ def start():
 
 
 # start()
-while True:
-    command("START")
-    time.sleep(20)
-    command("END")
-    time.sleep(3)
+command("OPEN")
+# while True:
+#     command("START")
+#     time.sleep(20)
+#     command("END")
+#     time.sleep(3)
 # time.sleep(15)
 # command("EXIT")
 # subprocess.Popen(
