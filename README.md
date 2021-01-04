@@ -4,6 +4,7 @@
 <li>Collect Average data generated from STM32 application for different modes</li>
 </ul>
 <h1>Architecture</h1>
+
 <img src="https://drive.google.com/uc?export=view&id=1GP8sPyUHjt-v0cNfwVyZP6_40oGMuqHQ">
 <ul>
 <li>In UI user/customer will give input configuration</li>
